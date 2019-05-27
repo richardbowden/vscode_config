@@ -1,0 +1,21 @@
+{
+    "explorer.openEditors.visible": 0,
+    "workbench.editor.enablePreview": false,
+    "editor.fontFamily": "IBMPlexMono-Text",
+    "editor.fontSize": 13,
+    "editor.cursorStyle": "underline",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.minimap.enabled": false,
+    "go.delveConfig": {
+        "dlvLoadConfig": {
+            "followPointers": true,
+            "maxVariableRecurse": 2,
+            "maxStringLen": 128,
+            "maxArrayValues": 64,
+            "maxStructFields": -1
+        }
+    },
+    "workbench.settings.editor": "json",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons"
+}
